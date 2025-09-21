@@ -1,0 +1,16 @@
+*.exe
+
+*.obj
+*.o
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.exp
+*.tmp
+*.temp
+*~
+
+.vscode/
+*.vcxproj*
+*.sln
