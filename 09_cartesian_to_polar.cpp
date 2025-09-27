@@ -19,7 +19,7 @@ public:
 class Polar
 {
 private:
-  float r, theta;
+  float r, theta;z
 
 public:
   Polar(float r = 0, float theta = 0) : r(r), theta(theta) {}
